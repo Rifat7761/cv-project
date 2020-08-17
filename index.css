@@ -1,0 +1,95 @@
+body{ 
+  background-color: #EEE;
+
+}
+.container{
+  background-color:rgb(110, 207, 191);
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+}
+.profile{
+  height: 100px;
+  width: 120px;
+  border:  solid white;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  float: left;
+  padding: 30px;
+}
+.bio{
+  float: left;
+  padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+  color: blue;
+}
+.contact {
+  float:right;
+  
+  padding: 30px;
+  text-decoration: none;
+  
+}
+a { 
+  text-decoration: none;
+  color: blue;
+}
+.contact a:hover{
+  text-decoration: underline;
+  color: tomato;
+}
+hr{
+  border: solid black;
+  width:100%;
+  margin:20px auto;
+  
+}
+# personal information {
+
+}
+.content {
+
+}
+.left{
+  width: 30%;
+  float: left;
+
+}
+.right{
+  width: 70%;
+  float: left;;
+
+}
+.common{
+ border-bottom: none;
+width: 100%;
+margin: 20px auto;
+bottom: solid black ;
+}
+.edu{
+  float: left;
+width: 30%;
+
+}
+.left edu{
+  float: left;
+  width: 45%;
+
+}
+.right edu{
+  float: right;
+  width: 45%;
+}
+.last{
+  padding: 10%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.last a{ 
+  color: white;
+}
